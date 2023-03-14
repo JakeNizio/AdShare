@@ -1,9 +1,9 @@
-<u> AdShare </u>
+## AdShare
 
-/// Run Frontend ///
+# /// Run Frontend ///
 > cd frontend
 > npm start
 
-/// Run Backend ///
+# /// Run Backend ///
 > cd backend
 > npm start
