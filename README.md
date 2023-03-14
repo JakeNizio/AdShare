@@ -1,9 +1,12 @@
 # AdShare
 
 ## Run Frontend
-> cd frontend <
-> npm start <
-
+'''
+cd frontend 
+npm start
+'''
 ## Run Backend
-> cd backend
-> npm start
+'''
+cd backend
+npm start
+'''
